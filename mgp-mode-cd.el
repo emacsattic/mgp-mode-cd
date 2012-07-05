@@ -2,7 +2,7 @@
 
 ;; Filename: mgp-mode-cd.el
 ;; Author:   Christoph Dalitz
-;; Version:  1.8
+;; Version:  1.9
 ;; License:  GNU General Public License
 
 ;; Abstract:
@@ -344,3 +344,5 @@ more convenient. These commands are available from the main menu
 
   (run-hooks 'mgp-mode-hook)
 )
+
+(provide 'mgp-mode-cd)
