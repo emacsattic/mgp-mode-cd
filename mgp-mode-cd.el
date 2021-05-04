@@ -1,4 +1,4 @@
-;; mgp-mode-cd.el - An Emacs major-mode for editing MagicPoint files.
+;;; mgp-mode-cd.el --- An Emacs major-mode for editing MagicPoint files
 
 ;; Filename: mgp-mode-cd.el
 ;; Author:   Christoph Dalitz
